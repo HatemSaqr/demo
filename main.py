@@ -9,5 +9,5 @@ def mines (y,x):
     return y - x
 
 print(add(num1,num2))
-print(m(num1,num2))
+print(mines(num1,num2))
 
