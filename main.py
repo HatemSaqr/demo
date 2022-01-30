@@ -5,7 +5,7 @@ num2 = float(input("enter sacend number:"))
 def add(y,x):
     return y + x
 
-def m (y,x):
+def mines (y,x):
     return y - x
 
 print(add(num1,num2))
