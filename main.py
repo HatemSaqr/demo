@@ -20,7 +20,7 @@ calculator = True
 
 while calculator:
     
-    print("   ")
+    print("    ")
     print("type +,-,*,/,exit")
     choies = input("choise: ")
     if choies == "exit":
